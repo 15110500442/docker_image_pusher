@@ -1,2 +1,3 @@
 nginx
 linuxserver/libreoffice:25.8.1
+postgres:15
