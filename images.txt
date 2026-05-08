@@ -2,4 +2,4 @@ nginx
 linuxserver/libreoffice:25.8.1
 postgres:15
 corpusops/postgis:12-3
-james/postgresql9.2:latest
+kartoza/postgis:9.2-2.1
