@@ -1,4 +1,1 @@
-nginx
-linuxserver/libreoffice:25.8.1
-postgres:15
 usgsastro/postgis:postgres-9.2-postgis-2.0.3
