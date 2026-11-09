@@ -1,1 +1,1 @@
-cheewai/postgis:postgres-11-postgis-2.5
+mips64le/python:3.9-slim-bookworm
