@@ -1,1 +1,1 @@
-mips64le/python:3.9-slim-bookworm
+mips64le/python:3.9.25-slim-bookworm
