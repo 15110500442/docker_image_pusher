@@ -1,1 +1,1 @@
-passivelogic/nginx@sha256:4a2475325e9bfd3afe7072826692a96265d3f8d21998f2053c1cfa4cb10ead7b
+passivelogic/nginx:1.27.4
