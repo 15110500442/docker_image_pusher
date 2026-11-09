@@ -1,1 +1,1 @@
-snowdreamtech/python:latest
+snowdreamtech/nginx:latest
