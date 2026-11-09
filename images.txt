@@ -1,1 +1,1 @@
-mips64le/nginx:stable
+passivelogic/nginx:1.27.4 --platform linux/mips64le 
