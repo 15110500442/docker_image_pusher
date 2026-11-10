@@ -1,1 +1,1 @@
---platform linux/mips64le apecloud/postgres:15.7
+--platform linux/mips64le dgaponcic/really-not-python:3.9
