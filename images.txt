@@ -1,1 +1,2 @@
 --platform linux/mips64le dgaponcic/really-not-python:3.9
+--platform linux/mips64le mips64le/python:3.9-slim-bookworm
