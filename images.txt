@@ -1,1 +1,1 @@
-wteja/oracle11g:latest 
+wteja/oracle11g:latest  
