@@ -1,1 +1,1 @@
-wteja/oracle11g:latest  
+postgis/postgis:14-3.7-alpine
